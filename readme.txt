@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-learn
-openpyxl
-matplotlib
-python-dateutil
